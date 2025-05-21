@@ -38,9 +38,9 @@ Just open `index.html` in any modern web browser to preview the landing page.
 ## 📂 Folder Structure
 
 meshflow-landing-page/
-├── index.html # Landing page with MeshFlow content
-├── styles.css # Custom styles (mobile-first, responsive)
-└── README.md # Project summary and documentation
+- index.html # Landing page with MeshFlow content
+- styles.css # Custom styles (mobile-first, responsive)
+- README.md # Project summary and documentation
 
 
 ---
